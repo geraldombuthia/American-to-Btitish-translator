@@ -1,0 +1,1 @@
+A javascript American/ British English Translator.
